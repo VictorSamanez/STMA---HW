@@ -218,3 +218,6 @@ __marimo__/
 .streamlit/secrets.toml
 02- dataframe-analysis/data.parquet
 03-the model/stocks_df_combined_2026_09_18.parquet.brotli
+
+# Theory repository clone (not part of the homework)
+Teorico/
